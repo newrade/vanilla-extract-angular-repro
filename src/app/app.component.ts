@@ -10,6 +10,6 @@ export class AppComponent {
   title = 'vanilla-extract-angular';
 
   ngOnInit() {
-    console.log(styles.base);
+    // console.log(styles.base);
   }
 }

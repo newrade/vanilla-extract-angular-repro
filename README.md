@@ -1,4 +1,15 @@
-# VanillaExtractAngular
+# Vanilla Extract Angular Reproduction
+
+## Steps
+
+1. `git clone git@github.com:newrade/vanilla-extract-angular-repro.git`
+2. `cd vanilla-extract-angular-repro`
+3. `yarn`
+4. `yarn start`
+5. Go in app.component.ts and uncomment line 13
+6. Navigate to http://localhost:4200 and see error
+
+--
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
